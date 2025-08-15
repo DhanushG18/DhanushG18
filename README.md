@@ -24,4 +24,10 @@ I'm a passionate **student** with a keen interest in building web applications a
 
 ## 📈 GitHub Stats
 
-![Dhanush's GitHub stats](
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHANUSH-G01&show_icons=true&theme=radical)
+
+---
+
+## 💡 Fun Fact
+
+I love to create, collaborate, and continuously learn. Let’s build something amazing together!
