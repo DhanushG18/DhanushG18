@@ -17,7 +17,7 @@ I'm a passionate **student** with a keen interest in building web applications a
 ## 📧 Contact Me
 
 - **Email:** dhanushg2202@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/dhanush-g22)  
+- [LinkedIn](https://www.linkedin.com/in/dhanushg22/)  
 - [X (Twitter)](https://x.com/dhanushg_)
 
 ---
