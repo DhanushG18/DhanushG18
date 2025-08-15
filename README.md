@@ -4,26 +4,24 @@ I'm a passionate **student** with a keen interest in building web applications a
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 Tech Stack
 
 - **Languages:** Python, JavaScript, TypeScript
-- **Frontend:** Tailwind CSS, JavaScript, TypeScript, Web Development
-- **Other Interests:** Exploring modern web technologies, UI/UX, Open Source
+- **Frontend:** Tailwind CSS, React, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Tools & Platforms:** Git, GitHub, VS Code, Firebase
+- **Other Interests:** UI/UX, Open Source, Modern Web Technologies
 
 ---
 
-## 🌐 Connect with Me
+## 📧 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/dhanush-g22)
+- **Email:** dhanushg2202@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/dhanush-g22)  
+- [X (Twitter)](https://x.com/dhanushg_)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHANUSH-G01&show_icons=true&theme=radical)
-
----
-
-## 💡 Fun Fact
-
-I love to create, collaborate, and continuously learn. Let’s build something amazing together!
+![Dhanush's GitHub stats](
