@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Dhanush 👋
 
-<!--
-**DHANUSH-G01/DHANUSH-G01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **student** with a keen interest in building web applications and learning new technologies. Here’s a little about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+
+- **Languages:** Python, JavaScript, TypeScript
+- **Frontend:** Tailwind CSS, JavaScript, TypeScript, Web Development
+- **Other Interests:** Exploring modern web technologies, UI/UX, Open Source
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/dhanush-g22)
+
+---
+
+## 📈 GitHub Stats
+
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHANUSH-G01&show_icons=true&theme=radical)
+
+---
+
+## 💡 Fun Fact
+
+I love to create, collaborate, and continuously learn. Let’s build something amazing together!
