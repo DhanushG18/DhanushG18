@@ -24,7 +24,7 @@ I'm a passionate **student** with a keen interest in building web applications a
 
 ## 📈 GitHub Stats
 
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHANUSH-G01&show_icons=true&theme=radical)
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanushG18&show_icons=true&theme=radical)
 
 ---
 
